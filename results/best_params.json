@@ -1,0 +1,14 @@
+{
+  "softmax": {
+    "lam": 0.001,
+    "lr": 0.1
+  },
+  "pca_rbf_svm": {
+    "n_components": 200,
+    "C": 10
+  },
+  "random_forest": {
+    "max_features": "sqrt",
+    "max_depth": null
+  }
+}
